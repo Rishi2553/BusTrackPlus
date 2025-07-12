@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703059807999",
+    "project_id": "bus-tracking-project-1834c",
+    "storage_bucket": "bus-tracking-project-1834c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703059807999:android:95375b0e888249345306ca",
+        "android_client_info": {
+          "package_name": "com.example.bus_tracking_conductor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKZVXnDHOvVqT9cNP1N5L24ZPO-ko-xSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
